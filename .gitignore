@@ -1,0 +1,13 @@
+# OS cruft
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# KiCad backups and autosave
+*~
+*.bak
+*.tmp
+*.kicad_prl
+autosave-*
