@@ -4,16 +4,6 @@ Analog Slot Machine – 3-Digit Random Number Generator
 This project is a fully discrete, CMOS-based 3-digit “slot machine” random number
 generator designed in KiCad. A transistor noise source, analog amplification, and a
 comparator generate a pseudo-random clock that drives three CD4026 decade counters and
-Expand
-Slot_Machine_description.txt
-5 KB
-
-Analog Slot Machine – 3-Digit Random Number Generator
-=====================================================
-
-This project is a fully discrete, CMOS-based 3-digit “slot machine” random number
-generator designed in KiCad. A transistor noise source, analog amplification, and a
-comparator generate a pseudo-random clock that drives three CD4026 decade counters and
 7-segment LED displays. There is no microcontroller involved.
 
 In normal use:
